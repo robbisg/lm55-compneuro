@@ -1,14 +1,16 @@
-# LM-55 COMPNEURO Course
+# LM-55 Computational Neuroscience Course
 Collection of material for the course in Computational Neuroscience (LM-55).
 
 ## Textbooks
 
 Dayan, P. (2005). Theoretical Neuroscience: Computational And Mathematical Modeling of Neural Systems. MIT Press.
 
-
+Itzikievich 
 
 ## Program
-
+The slides of the course can be found at the following links:
+- [AA 2022-23](program2223.md)
+- 
 ## Material
 
 ## Papers
