@@ -34,3 +34,25 @@
 | 30. | | | |
 | 31. | | | |
 | 32. | | | |
+
+Sketch:
+1. Introduction
+2. Models how to:  
+5. Electrophysiology of Neurons
+6. Hodgkin and Huxley model
+7. Dynamical system I
+8. Dynamical systems II
+9. Simple models
+10. Neural encoding I
+11. Neural encoding II
+12. Neural decoding I
+13. Neural decoding II
+15. Network models
+16. Convolutional neural networks
+17. Recurrent neural networks
+18. Recurrent neural networks
+19. Decision making
+20. Memory and Attractor dynamics
+21. Supervised Learning
+22. Unsupervised learning
+23. Reinforcement learning
