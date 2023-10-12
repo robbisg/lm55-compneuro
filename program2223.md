@@ -2,9 +2,9 @@
 
 | Title | Link | References | Day |
 | ------------------ | ------------- | ---------------- | --------------- |
-| 1. | Introduction | | |
-| 2. | | | |
-| 3. | | | |
+| 1. Introduction | [slides](https://docs.google.com/presentation/d/1OcVZIY98RBdvd79Sdh8guh9xUYrnSirPL0m9x1Zvutg/edit?usp=sharing) | Chap. 1 Izhikievich | 10.10.2023 |
+| 2. Modeling | [slides](https://docs.google.com/presentation/d/1JFP7UrMRc0tQQ8J5xWJ7GZLKpbSIjv9l-dy_ggNMmJA/edit?usp=sharing) | [Paper](https://doi.org/10.1523/ENEURO.0352-19.2019) | 11.10.2023 |
+| 3. Neuronal functioning | [slides](https://docs.google.com/presentation/d/1QvZTo_jiHC9AmII3pHu5f9xeEjFmustq2532EAuddK0/edit?usp=sharing) | Chap.2 Izhikievich | 13.10.2023 |
 | 4. | | | |
 | 5. | | | |
 | 6. | | | |
