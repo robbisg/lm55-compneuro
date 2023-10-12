@@ -3,11 +3,10 @@ Collection of material for the course in Computational Neuroscience (LM-55).
 
 ## Textbooks
 
-Dayan, P. (2005). Theoretical Neuroscience: Computational And Mathematical Modeling of Neural Systems. MIT Press. [here]()
-
-
 Eugene M. Izhikevich, Dynamical Systems in Neuroscience: The Geometry of Excitability and Bursting The MIT Press, 2007 [here](https://www.izhikevich.org/publications/dsn.pdf)
+
 Dayan, P. (2005). Theoretical Neuroscience: Computational And Mathematical Modeling of Neural Systems. MIT Press. [here](https://boulderschool.yale.edu/sites/default/files/files/DayanAbbott.pdf)
+
 Gerstner, Wulfram, et al. Neuronal dynamics: From single neurons to networks and models of cognition. Cambridge University Press, 2014. [here](https://neuronaldynamics.epfl.ch/index.html)
 
 ## Program
