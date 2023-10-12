@@ -23,17 +23,17 @@
 | 19. Memory and Attractor dynamics | | | |
 | 20. 💻 Exercise | | | |
 | 21. Sestieri 1 | | | |
-| 22. | | | |
-| 23. | | | |
-| 24. | | | |
-| 25. | | | |
-| 26. | | | |
-| 27. | | | |
-| 28. | | | |
-| 29. | | | |
-| 30. | | | |
-| 31. | | | |
-| 32. | | | |
+| 22. Sestieri 1 | | | |
+| 23. Sestieri 1 | | | |
+| 24. Sestieri 1 | | | |
+| 25. Sestieri 1 | | | |
+| 26. Sestieri 1 | | | |
+| 27. Sestieri 1 | | | |
+| 28. Sestieri 1 | | | |
+| 29. Sestieri 1 | | | |
+| 30. Sestieri 1 | | | |
+| 31. Sestieri 1 | | | |
+| 32. Sestieri 1 | | | |
 
 Sketch:
 1. Introduction
