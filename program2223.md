@@ -22,18 +22,18 @@
 | 18. Decision making models | | | |
 | 19. Memory and Attractor dynamics | | | |
 | 20. 💻 Exercise | | | |
-| 21. Sestieri 1 | | | |
-| 22. Sestieri 1 | | | |
-| 23. Sestieri 1 | | | |
-| 24. Sestieri 1 | | | |
-| 25. Sestieri 1 | | | |
-| 26. Sestieri 1 | | | |
-| 27. Sestieri 1 | | | |
-| 28. Sestieri 1 | | | |
-| 29. Sestieri 1 | | | |
-| 30. Sestieri 1 | | | |
-| 31. Sestieri 1 | | | |
-| 32. Sestieri 1 | | | |
+| 21. Sestieri | | | |
+| 22. Sestieri | | | |
+| 23. Sestieri | | | |
+| 24. Sestieri | | | |
+| 25. Sestieri | | | |
+| 26. Sestieri | | | |
+| 27. Sestieri | | | |
+| 28. Sestieri | | | |
+| 29. Sestieri | | | |
+| 30. Sestieri | | | |
+| 31. Sestieri | | | |
+| 32. Sestieri | | | |
 
 Sketch:
 1. Introduction
