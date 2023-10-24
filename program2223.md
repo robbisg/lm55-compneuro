@@ -8,16 +8,16 @@
 | 4. Dynamical system pt. I | [slides](https://docs.google.com/presentation/d/1N928kzJQYgUyY0vWr_8zbDAMu7ByEWbYuhr0aPI60Zg/edit?usp=sharing) | Chap.3 Izhikievich | 17.10.2023 |
 | 5. Dynamical system pt. II | [slides](https://docs.google.com/presentation/d/1N928kzJQYgUyY0vWr_8zbDAMu7ByEWbYuhr0aPI60Zg/edit?usp=sharing) | Chap.3 Izhikievich | 18.10.2023 |
 | 6. Dynamical system 2D pt. I | [slides](https://docs.google.com/presentation/d/1xVGWPb4iwBjasvBVkwzVA1cxtwP5ChDXEsNewPWlljY/edit?usp=sharing)| Chap.4 Izhikievich | 20.10.2023 |
-| 7. Dynamical system 2D pt. II  | | | M |
-| 8. Bifurcations | | | M |
-| 9. 💻 HH model in practice | | | V |
-| 10. Neural excitability | | | M |
-| 11. Neural bursting | | | M |
-| 12. 💻 Encoding and decoding in practice | | | V |
-| 13. Network models I | | | M |
-| 14. Network models II | | | M |
-| 15. Learning and plasticity | | |  V |
-| 16. Perception | | | |
+| 7. Dynamical system 2D pt. II  | [slides](https://docs.google.com/presentation/d/1xVGWPb4iwBjasvBVkwzVA1cxtwP5ChDXEsNewPWlljY/edit?usp=sharing) | Chap.4 Izhikievich | 24.10.2023 |
+| 8. Neuronal models I |  | Chap.4,5 Izhikievich | 25.10.2023 |
+| 9. Neuronal models II | | Chap 5 Izhikievich | V |
+| 10. Bifurcations | | | M |
+| 11. Neural excitability | | | M |
+| 12. 💻 Models in practice | | | V |
+| 13. Neural bursting | | | M |
+| 14. Synchronization | | | M |
+| 15. Neural encoding | | |  V |
+| 16. Neural decoding | | | |
 | 17. Neural networks| | | |
 | 18. Decision making models | | | |
 | 19. Memory and Attractor dynamics | | | |
