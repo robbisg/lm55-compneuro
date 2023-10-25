@@ -9,7 +9,7 @@
 | 5. Dynamical system pt. II | [slides](https://docs.google.com/presentation/d/1N928kzJQYgUyY0vWr_8zbDAMu7ByEWbYuhr0aPI60Zg/edit?usp=sharing) | Chap.3 Izhikievich | 18.10.2023 |
 | 6. Dynamical system 2D pt. I | [slides](https://docs.google.com/presentation/d/1xVGWPb4iwBjasvBVkwzVA1cxtwP5ChDXEsNewPWlljY/edit?usp=sharing)| Chap.4 Izhikievich | 20.10.2023 |
 | 7. Dynamical system 2D pt. II  | [slides](https://docs.google.com/presentation/d/1xVGWPb4iwBjasvBVkwzVA1cxtwP5ChDXEsNewPWlljY/edit?usp=sharing) | Chap.4 Izhikievich | 24.10.2023 |
-| 8. Neuronal models I |  | Chap.4,5 Izhikievich | 25.10.2023 |
+| 8. Neuronal models I | [slides](https://docs.google.com/presentation/d/1DRC8jskF6oI1k439YmqB8QLE7Y_wpomsbV6J56CmshI/edit?usp=sharing)  | Chap.4,5 Izhikievich | 25.10.2023 |
 | 9. Neuronal models II | | Chap 5 Izhikievich | V |
 | 10. Bifurcations | | | M |
 | 11. Neural excitability | | | M |
