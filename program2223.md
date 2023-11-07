@@ -10,10 +10,10 @@
 | 6. Dynamical system 2D pt. I | [slides](https://docs.google.com/presentation/d/1xVGWPb4iwBjasvBVkwzVA1cxtwP5ChDXEsNewPWlljY/edit?usp=sharing)| Chap.4 Izhikievich | 20.10.2023 |
 | 7. Dynamical system 2D pt. II  | [slides](https://docs.google.com/presentation/d/1xVGWPb4iwBjasvBVkwzVA1cxtwP5ChDXEsNewPWlljY/edit?usp=sharing) | Chap.4 Izhikievich | 24.10.2023 |
 | 8. Neuronal models I pt. 1 | [slides](https://docs.google.com/presentation/d/1DRC8jskF6oI1k439YmqB8QLE7Y_wpomsbV6J56CmshI/edit?usp=sharing)  | Chap.4,5 Izhikievich | 25.10.2023 |
-| 9. Neuronal models I pt. 2| [slides](https://docs.google.com/presentation/d/1DRC8jskF6oI1k439YmqB8QLE7Y_wpomsbV6J56CmshI/edit?usp=sharing) | Chap 4,5 Izhikievich | 31.10.2023 |
-| 10. Neuronal models II | [slides](https://docs.google.com/presentation/d/16YGS02INZ5L6cxn-ZrROYoXZ6wj2AqegfbplpPJB3YY/edit?usp=sharing) | Chap 5 Izhikievich | 03.11.2023 |
-| 11. Bifurcation reprise | | | M |
-| 12. Neural excitability | | | M |
+| 9. Neuronal models I pt. 2 | [slides](https://docs.google.com/presentation/d/1DRC8jskF6oI1k439YmqB8QLE7Y_wpomsbV6J56CmshI/edit?usp=sharing) | Chap 4,5 Izhikievich | 31.10.2023 |
+| 10. Neuronal models II pt. 1 | [slides](https://docs.google.com/presentation/d/16YGS02INZ5L6cxn-ZrROYoXZ6wj2AqegfbplpPJB3YY/edit?usp=sharing) | Chap 5 Izhikievich | 03.11.2023 |
+| 11. Neuronal models II pt. 2 | [slides](https://docs.google.com/presentation/d/16YGS02INZ5L6cxn-ZrROYoXZ6wj2AqegfbplpPJB3YY/edit?usp=sharing) | Chap 5 Izhikievich | 07.11.2023 |
+| 12. Bifurcation reprise | | | M |
 | 13. 💻 Models in practice | | | V |
 | 14. Synchronization | | | M |
 | 15. Neural bursting | | |  V |
