@@ -13,7 +13,7 @@
 | 9. Neuronal models I pt. 2 | [slides](https://docs.google.com/presentation/d/1DRC8jskF6oI1k439YmqB8QLE7Y_wpomsbV6J56CmshI/edit?usp=sharing) | Chap 4,5 Izhikievich | 31.10.2023 |
 | 10. Neuronal models II pt. 1 | [slides](https://docs.google.com/presentation/d/16YGS02INZ5L6cxn-ZrROYoXZ6wj2AqegfbplpPJB3YY/edit?usp=sharing) | Chap 5 Izhikievich | 03.11.2023 |
 | 11. Neuronal models II pt. 2 | [slides](https://docs.google.com/presentation/d/16YGS02INZ5L6cxn-ZrROYoXZ6wj2AqegfbplpPJB3YY/edit?usp=sharing) | Chap 5 Izhikievich | 07.11.2023 |
-| 12. Bifurcation reprise | | | M |
+| 12. Bifurcation reprise | [slides](https://docs.google.com/presentation/d/1g_1ETJaAYASRFlC8A99okKTgNZx6JTtmv1MjizGqm2I/edit?usp=drive_link) | Chap 6 Izhikievich | 08.11.2023 |
 | 13. 💻 Models in practice | | | V |
 | 14. Synchronization | | | M |
 | 15. Neural bursting | | |  V |
