@@ -15,22 +15,22 @@
 | 11. Neuronal models II pt. 2 | [slides](https://docs.google.com/presentation/d/16YGS02INZ5L6cxn-ZrROYoXZ6wj2AqegfbplpPJB3YY/edit?usp=sharing) | Chap 5 Izhikievich | 07.11.2023 |
 | 12. Bifurcation reprise pt. I | [slides](https://docs.google.com/presentation/d/1g_1ETJaAYASRFlC8A99okKTgNZx6JTtmv1MjizGqm2I/edit?usp=drive_link) | Chap 6 Izhikievich | 08.11.2023 |
 | 13. Bifurcation reprise pt. II | [slides](https://docs.google.com/presentation/d/1g_1ETJaAYASRFlC8A99okKTgNZx6JTtmv1MjizGqm2I/edit?usp=drive_link) | Chap 6 Izhikievich | 10.11.2023 |
-| 14. Synchronization | | | M |
-| 15. 💻 Models in practice | | |  V |
-| 16. Neural decoding | | | |
-| 17. Neural networks| | | |
-| 18. Decision making models | | | |
-| 19. Memory and Attractor dynamics | | | |
-| 20. 💻 Exercise | | | |
-| 21. Sestieri | | | |
-| 22. Sestieri | | | |
-| 23. Sestieri | | | |
-| 24. Sestieri | | | |
-| 25. Sestieri | | | |
-| 26. Sestieri | | | |
-| 27. Sestieri | | | |
-| 28. Sestieri | | | |
-| 29. Sestieri | | | |
+| 14. Bifurcation reprise pt. III | [slides](https://docs.google.com/presentation/d/1g_1ETJaAYASRFlC8A99okKTgNZx6JTtmv1MjizGqm2I/edit?usp=drive_link) | Chap 6 Izhikievich | 14.11.2023 |
+| 15. 💻 Models in practice | | | 15.11.2023 |
+| 16. Neural decoding | | | 17.11.2023 |
+| 17. Neural networks| | | 21.11.2023 |
+| 18. Decision making models | | | 22.11.2023 |
+| 19. Memory and Attractor dynamics | | | 24.11.2023 |
+| 20. 💻 Exercise | | | 28.11.2023 |
+| 21.  | | | 29.11.2023 |
+| 22.  | | | 01.12.2023 |
+| 23.  | | | 05.12.2023 |
+| 24.  | | | 06.12.2023 |
+| 25.  | | | 12.12.2023 |
+| 26.  | | | 13.12.2023 |
+| 27.  | | | 15.12.2023 |
+| 28.  | | | 19.12.2023 |
+| 29.  | | | 20.12.2023 |
 | 30. Sestieri | | | |
 | 31. Sestieri | | | |
 | 32. Sestieri | | | |
