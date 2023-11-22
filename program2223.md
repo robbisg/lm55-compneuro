@@ -19,7 +19,7 @@
 | 15. Class of excitability and spiking | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich | 15.11.2023 |
 | 16. Neuronal integrators and resonators | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich | 17.11.2023 |
 | 17. Threshold and action potentials | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich | 21.11.2023 |
-| 18. Decision making models | | | 22.11.2023 |
+| 18. Inhibitory properties | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich | 22.11.2023 |
 | 19. 💻 Models in practice | | | 24.11.2023 |
 | 20. 💻 Exercise | | | 28.11.2023 |
 | 21.  | | | 29.11.2023 |
