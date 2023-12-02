@@ -23,14 +23,14 @@
 | 19. 💻 Models in practice | [notebook](https://colab.research.google.com/drive/1eU9CvNjnUDOzYpDkrmurvR2CHjjlh20d?usp=sharing) | Chap 3 Izhikievich | 24.11.2023 |
 | 20. Neuronal Bursting pt. I | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap. 9 Izhikievich | 28.11.2023 |
 | 21. Neuronal Bustring pt. II | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap. 9 Izhikievich | 29.11.2023 |
-| 22. 💻 Hodgkin and Huxley pt. II | | | 01.12.2023 |
-| 23. Vision and CNN | | | 05.12.2023 |
-| 24. Memory and Hopfield | | | 06.12.2023 |
-| 25. Decision making | | | 12.12.2023 |
-| 26. Encoding models | | | 13.12.2023 |
-| 27. Decoding models | | | 15.12.2023 |
-| 28.  | | | 19.12.2023 |
-| 29.  | | | 20.12.2023 |
+| 22. Neuronal Bursting pt. III | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap 9 Izhikievich | 01.12.2023 |
+| 23. Firing rates and networks | | | 05.12.2023 |
+| 24. Decision making models | | | 06.12.2023 |
+| 25. Memory models | | | 12.12.2023 |
+| 26. Recurrent Neural Networks | | | 13.12.2023 |
+| 27. Convolutional Neural Networks | | | 15.12.2023 |
+| 28. Decoding models | | | 19.12.2023 |
+| 29. Controllability | | | 20.12.2023 |
 | 30. Sestieri | | |  22.12.2023 |
 | 31. Sestieri | | | |
 | 32. Sestieri | | | |
