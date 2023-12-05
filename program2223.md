@@ -24,7 +24,7 @@
 | 20. Neuronal Bursting pt. I | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap. 9 Izhikievich | 28.11.2023 |
 | 21. Neuronal Bustring pt. II | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap. 9 Izhikievich | 29.11.2023 |
 | 22. Neuronal Bursting pt. III | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap 9 Izhikievich | 01.12.2023 |
-| 23. Firing rates and networks | | | 05.12.2023 |
+| 23. Neural encoding |[slides](https://docs.google.com/presentation/d/102ciKLSKFk0NT85m0MKFJ5zOZGE0HNzOTlegUYcEHrk/edit?usp=sharing) | Chap 1 DayanAbbot| 05.12.2023 |
 | 24. Decision making models | | | 06.12.2023 |
 | 25. Memory models | | | 12.12.2023 |
 | 26. Recurrent Neural Networks | | | 13.12.2023 |
