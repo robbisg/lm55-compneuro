@@ -24,35 +24,13 @@
 | 20. Neuronal Bursting pt. I | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap. 9 Izhikievich | 28.11.2023 |
 | 21. Neuronal Bustring pt. II | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap. 9 Izhikievich | 29.11.2023 |
 | 22. Neuronal Bursting pt. III | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap 9 Izhikievich | 01.12.2023 |
-| 23. Neural encoding |[slides](https://docs.google.com/presentation/d/102ciKLSKFk0NT85m0MKFJ5zOZGE0HNzOTlegUYcEHrk/edit?usp=sharing) | Chap 1 DayanAbbot| 05.12.2023 |
-| 24. Decision making models | | | 06.12.2023 |
-| 25. Memory models | | | 12.12.2023 |
+| 23. Neural encoding pt I |[slides](https://docs.google.com/presentation/d/102ciKLSKFk0NT85m0MKFJ5zOZGE0HNzOTlegUYcEHrk/edit?usp=sharing) | Chap 1 DayanAbbot| 05.12.2023 |
+| 24. Neural encoding pt II |[slides](https://docs.google.com/presentation/d/102ciKLSKFk0NT85m0MKFJ5zOZGE0HNzOTlegUYcEHrk/edit?usp=sharing) | Chap 1 DayanAbbot| 06.12.2023 |
+| 25. Networks models | | | 12.12.2023 |
 | 26. Recurrent Neural Networks | | | 13.12.2023 |
 | 27. Convolutional Neural Networks | | | 15.12.2023 |
 | 28. Decoding models | | | 19.12.2023 |
 | 29. Controllability | | | 20.12.2023 |
-| 30. Sestieri | | |  22.12.2023 |
-| 31. Sestieri | | | |
-| 32. Sestieri | | | |
-
-Sketch:
-1. Introduction
-2. Models how to:  
-5. Electrophysiology of Neurons
-6. Hodgkin and Huxley model
-7. Dynamical system I
-8. Dynamical systems II
-9. Simple models
-10. Neural encoding I
-11. Neural encoding II
-12. Neural decoding I
-13. Neural decoding II
-15. Network models
-16. Convolutional neural networks
-17. Recurrent neural networks
-18. Recurrent neural networks
-19. Decision making
-20. Memory and Attractor dynamics
-21. Supervised Learning
-22. Unsupervised learning
-23. Reinforcement learning
+| 30. Bayesian models for cognition | | | |
+| 31. Dynamical Causal modeling pt I | | | |
+| 32. Dynamical Causal modeling pt II | | | |
