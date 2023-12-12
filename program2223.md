@@ -26,8 +26,8 @@
 | 22. Neuronal Bursting pt. III | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap 9 Izhikievich | 01.12.2023 |
 | 23. Neural encoding pt I |[slides](https://docs.google.com/presentation/d/102ciKLSKFk0NT85m0MKFJ5zOZGE0HNzOTlegUYcEHrk/edit?usp=sharing) | Chap 1 DayanAbbot| 05.12.2023 |
 | 24. Neural encoding pt II |[slides](https://docs.google.com/presentation/d/102ciKLSKFk0NT85m0MKFJ5zOZGE0HNzOTlegUYcEHrk/edit?usp=sharing) | Chap 1 DayanAbbot| 06.12.2023 |
-| 25. Networks models | | | 12.12.2023 |
-| 26. Recurrent Neural Networks | | | 13.12.2023 |
+| 25. 💻 Models in practice | [notebook](https://colab.research.google.com/drive/1eU9CvNjnUDOzYpDkrmurvR2CHjjlh20d?usp=sharing) | Chap 3 Izhikievich | 12.12.2023 |
+| 26. Networks models | | | 13.12.2023 |
 | 27. Convolutional Neural Networks | | | 15.12.2023 |
 | 28. Decoding models | | | 19.12.2023 |
 | 29. Controllability | | | 20.12.2023 |
