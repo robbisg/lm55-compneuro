@@ -29,8 +29,8 @@
 | 25. 💻 Models in practice | [notebook](https://colab.research.google.com/drive/1eU9CvNjnUDOzYpDkrmurvR2CHjjlh20d?usp=sharing) | Chap 3 Izhikievich | 12.12.2023 |
 | 26. Networks models | [slides](https://docs.google.com/presentation/d/1TBPKwTxz321B_zknyZm1cOLUGfuRN8X1VyagO3--mcA/edit?usp=sharing) | Chap 7 DayanAbbot | 13.12.2023 |
 | 27. Decision making models | [slides](https://docs.google.com/presentation/d/14ALKQyPG3R06RTmdB_iKdyusjbk_tvRLksXhHu91hPQ/edit?usp=sharing) | Chap 16 Gerstner | 15.12.2023 |
-| 28. Memory models | [slides]() | Chap 17 Gernster | 19.12.2023 |
-| 29. Deep Neural networks for cognition | [slides]() | | 20.12.2023 |
+| 28. Memory models | [slides](https://docs.google.com/presentation/d/1dwOgCq7UafJKLOay58YLWd_Nv5oPWOKPv8ReM5XZe40/edit?usp=sharing) | Chap 17 Gernster | 19.12.2023 |
+| 29. Models in general | [slides]() | | 20.12.2023 |
 | 30. Bayesian models for cognition | | | |
 | 31. Dynamical Causal modeling pt I | | | |
 | 32. Dynamical Causal modeling pt II | | | |
