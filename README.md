@@ -12,6 +12,7 @@ Gerstner, Wulfram, et al. Neuronal dynamics: From single neurons to networks and
 ## Program
 The slides of the course can be found at the following links:
 - [AA 2022-23](program2223.md)
+- [AA 2025-26](program2526.md)
 
 ## Material
 
