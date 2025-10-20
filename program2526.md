@@ -5,8 +5,8 @@
 | 0. Logistic | [slides](https://docs.google.com/presentation/d/1bDt_rYcwczjNtUKM8aYUwtwwp2pBYFFPRtmNUEuxVTI/edit?usp=sharing) | | 06.10.2025 |
 | 1. Introduction | [slides](https://docs.google.com/presentation/d/1OcVZIY98RBdvd79Sdh8guh9xUYrnSirPL0m9x1Zvutg/edit?usp=sharing) | Chap. 1 Izhikievich | 06.10.2025 |
 | 2. Modeling | [slides](https://docs.google.com/presentation/d/1JFP7UrMRc0tQQ8J5xWJ7GZLKpbSIjv9l-dy_ggNMmJA/edit?usp=sharing) | [Paper](https://doi.org/10.1523/ENEURO.0352-19.2019) | 13.10.2025 |
-| 3. Neuronal functioning | [slides](https://docs.google.com/presentation/d/1QvZTo_jiHC9AmII3pHu5f9xeEjFmustq2532EAuddK0/edit?usp=sharing) | Chap.2 Izhikievich |  |
-| 4. Dynamical system pt. I | [slides](https://docs.google.com/presentation/d/1N928kzJQYgUyY0vWr_8zbDAMu7ByEWbYuhr0aPI60Zg/edit?usp=sharing) | Chap.3 Izhikievich |  |
+| 3. Neuronal functioning | [slides](https://docs.google.com/presentation/d/1QvZTo_jiHC9AmII3pHu5f9xeEjFmustq2532EAuddK0/edit?usp=sharing) | Chap.2 Izhikievich | 17.10.2025 |
+| 4. Dynamical system pt. I | [slides](https://docs.google.com/presentation/d/1N928kzJQYgUyY0vWr_8zbDAMu7ByEWbYuhr0aPI60Zg/edit?usp=sharing) | Chap.3 Izhikievich | 20.10.2025 |
 | 5. Dynamical system pt. II | [slides](https://docs.google.com/presentation/d/1N928kzJQYgUyY0vWr_8zbDAMu7ByEWbYuhr0aPI60Zg/edit?usp=sharing) | Chap.3 Izhikievich |  |
 | 6. Dynamical system 2D pt. I | [slides](https://docs.google.com/presentation/d/1xVGWPb4iwBjasvBVkwzVA1cxtwP5ChDXEsNewPWlljY/edit?usp=sharing)| Chap.4 Izhikievich |  |
 | 7. Dynamical system 2D pt. II  | [slides](https://docs.google.com/presentation/d/1xVGWPb4iwBjasvBVkwzVA1cxtwP5ChDXEsNewPWlljY/edit?usp=sharing) | Chap.4 Izhikievich |  |
