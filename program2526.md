@@ -8,7 +8,7 @@
 | 3. Neuronal functioning | [slides](https://docs.google.com/presentation/d/1QvZTo_jiHC9AmII3pHu5f9xeEjFmustq2532EAuddK0/edit?usp=sharing) | Chap.2 Izhikievich | 17.10.2025 |
 | 4. Dynamical system pt. I | [slides](https://docs.google.com/presentation/d/1N928kzJQYgUyY0vWr_8zbDAMu7ByEWbYuhr0aPI60Zg/edit?usp=sharing) | Chap.3 Izhikievich | 20.10.2025 |
 | 5. Dynamical system pt. II | [slides](https://docs.google.com/presentation/d/1N928kzJQYgUyY0vWr_8zbDAMu7ByEWbYuhr0aPI60Zg/edit?usp=sharing) | Chap.3 Izhikievich | 23.10.2025 |
-| 6. Dynamical system 2D pt. I | [slides](https://docs.google.com/presentation/d/1xVGWPb4iwBjasvBVkwzVA1cxtwP5ChDXEsNewPWlljY/edit?usp=sharing)| Chap.4 Izhikievich |  |
+| 6. Dynamical system 2D pt. I | [slides](https://docs.google.com/presentation/d/1xVGWPb4iwBjasvBVkwzVA1cxtwP5ChDXEsNewPWlljY/edit?usp=sharing)| Chap.4 Izhikievich | 27.10.2025 |
 | 7. Dynamical system 2D pt. II  | [slides](https://docs.google.com/presentation/d/1xVGWPb4iwBjasvBVkwzVA1cxtwP5ChDXEsNewPWlljY/edit?usp=sharing) | Chap.4 Izhikievich |  |
 | 8. Neuronal models I pt. 1 | [slides](https://docs.google.com/presentation/d/1DRC8jskF6oI1k439YmqB8QLE7Y_wpomsbV6J56CmshI/edit?usp=sharing)  | Chap.4,5 Izhikievich |  |
 | 9. Neuronal models I pt. 2 | [slides](https://docs.google.com/presentation/d/1DRC8jskF6oI1k439YmqB8QLE7Y_wpomsbV6J56CmshI/edit?usp=sharing) | Chap 4,5 Izhikievich |  |
