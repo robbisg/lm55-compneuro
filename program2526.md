@@ -11,25 +11,24 @@
 | 6. Dynamical system 2D pt. I | [slides](https://docs.google.com/presentation/d/1xVGWPb4iwBjasvBVkwzVA1cxtwP5ChDXEsNewPWlljY/edit?usp=sharing)| Chap.4 Izhikievich | 27.10.2025 |
 | 7. Neuronal models I pt. 1 | [slides](https://docs.google.com/presentation/d/1DRC8jskF6oI1k439YmqB8QLE7Y_wpomsbV6J56CmshI/edit?usp=sharing)  | Chap.4,5 Izhikievich | 30.10.2025 |
 | 8. Neuronal models I pt. 2 | [slides](https://docs.google.com/presentation/d/1DRC8jskF6oI1k439YmqB8QLE7Y_wpomsbV6J56CmshI/edit?usp=sharing) | Chap 4,5 Izhikievich | 03.11.2025 |
-| 9. Neuronal models II pt. 1 | [slides](https://docs.google.com/presentation/d/16YGS02INZ5L6cxn-ZrROYoXZ6wj2AqegfbplpPJB3YY/edit?usp=sharing) | Chap 5 Izhikievich |  |
-| 10. Neuronal models II pt. 2 | [slides](https://docs.google.com/presentation/d/16YGS02INZ5L6cxn-ZrROYoXZ6wj2AqegfbplpPJB3YY/edit?usp=sharing) | Chap 5 Izhikievich |  |
-| 11. Bifurcation reprise pt. I | [slides](https://docs.google.com/presentation/d/1g_1ETJaAYASRFlC8A99okKTgNZx6JTtmv1MjizGqm2I/edit?usp=drive_link) | Chap 6 Izhikievich |  |
-| 12. Bifurcation reprise pt. II | [slides](https://docs.google.com/presentation/d/1g_1ETJaAYASRFlC8A99okKTgNZx6JTtmv1MjizGqm2I/edit?usp=drive_link) | Chap 6 Izhikievich |  |
-| 13. Bifurcation reprise pt. III | [slides](https://docs.google.com/presentation/d/1g_1ETJaAYASRFlC8A99okKTgNZx6JTtmv1MjizGqm2I/edit?usp=drive_link) | Chap 6 Izhikievich |  |
-| 14. Class of excitability and spiking | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich |  |
-| 15. Neuronal integrators and resonators | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich |  |
-| 16. Threshold and action potentials | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich |  |
-| 17. Inhibitory properties | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich |  |
-| 18. 💻 Models in practice | [notebook](https://colab.research.google.com/drive/1eU9CvNjnUDOzYpDkrmurvR2CHjjlh20d?usp=sharing) | Chap 3 Izhikievich |  |
-| 19. Neuronal Bursting pt. I | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap. 9 Izhikievich |  |
-| 20. Neuronal Bustring pt. II | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap. 9 Izhikievich |  |
-| 21. Neuronal Bursting pt. III | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap 9 Izhikievich |  |
-| 23. Neural encoding pt I |[slides](https://docs.google.com/presentation/d/102ciKLSKFk0NT85m0MKFJ5zOZGE0HNzOTlegUYcEHrk/edit?usp=sharing) | Chap 1 DayanAbbot|  |
-| 24. Neural encoding pt II |[slides](https://docs.google.com/presentation/d/102ciKLSKFk0NT85m0MKFJ5zOZGE0HNzOTlegUYcEHrk/edit?usp=sharing) | Chap 1 DayanAbbot|  |
-| 25. 💻 Models in practice | [notebook](https://colab.research.google.com/drive/1eU9CvNjnUDOzYpDkrmurvR2CHjjlh20d?usp=sharing) | Chap 3 Izhikievich |  |
-| 26. Networks models | [slides](https://docs.google.com/presentation/d/1TBPKwTxz321B_zknyZm1cOLUGfuRN8X1VyagO3--mcA/edit?usp=sharing) | Chap 7 DayanAbbot |  |
-| 27. Decision making models | [slides](https://docs.google.com/presentation/d/14ALKQyPG3R06RTmdB_iKdyusjbk_tvRLksXhHu91hPQ/edit?usp=sharing) | Chap 16 Gerstner |  |
-| 28. Memory models | [slides](https://docs.google.com/presentation/d/1dwOgCq7UafJKLOay58YLWd_Nv5oPWOKPv8ReM5XZe40/edit?usp=sharing) | Chap 17 Gernster |  |
+| 9. Neuronal models I pt. 3 | [slides](https://docs.google.com/presentation/d/1DRC8jskF6oI1k439YmqB8QLE7Y_wpomsbV6J56CmshI/edit?usp=sharing) | Chap 4,5 Izhikievich | 06.11.2025 |
+| 10. Bifurcation reprise pt. I | [slides](https://docs.google.com/presentation/d/1g_1ETJaAYASRFlC8A99okKTgNZx6JTtmv1MjizGqm2I/edit?usp=drive_link) | Chap 6 Izhikievich |  |
+| 11. Bifurcation reprise pt. II | [slides](https://docs.google.com/presentation/d/1g_1ETJaAYASRFlC8A99okKTgNZx6JTtmv1MjizGqm2I/edit?usp=drive_link) | Chap 6 Izhikievich |  |
+| 12. Bifurcation reprise pt. III | [slides](https://docs.google.com/presentation/d/1g_1ETJaAYASRFlC8A99okKTgNZx6JTtmv1MjizGqm2I/edit?usp=drive_link) | Chap 6 Izhikievich |  |
+| 13. Class of excitability and spiking | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich |  |
+| 14. Neuronal integrators and resonators | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich |  |
+| 15. Threshold and action potentials | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich |  |
+| 16. Inhibitory properties | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich |  |
+| 17. 💻 Models in practice | [notebook](https://colab.research.google.com/drive/1eU9CvNjnUDOzYpDkrmurvR2CHjjlh20d?usp=sharing) | Chap 3 Izhikievich |  |
+| 18. Neuronal Bursting pt. I | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap. 9 Izhikievich |  |
+| 19. Neuronal Bustring pt. II | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap. 9 Izhikievich |  |
+| 20. Neuronal Bursting pt. III | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap 9 Izhikievich |  |
+| 21. Neural encoding pt I |[slides](https://docs.google.com/presentation/d/102ciKLSKFk0NT85m0MKFJ5zOZGE0HNzOTlegUYcEHrk/edit?usp=sharing) | Chap 1 DayanAbbot|  |
+| 22. Neural encoding pt II |[slides](https://docs.google.com/presentation/d/102ciKLSKFk0NT85m0MKFJ5zOZGE0HNzOTlegUYcEHrk/edit?usp=sharing) | Chap 1 DayanAbbot|  |
+| 23. 💻 Models in practice | [notebook](https://colab.research.google.com/drive/1eU9CvNjnUDOzYpDkrmurvR2CHjjlh20d?usp=sharing) | Chap 3 Izhikievich |  |
+| 24. Networks models | [slides](https://docs.google.com/presentation/d/1TBPKwTxz321B_zknyZm1cOLUGfuRN8X1VyagO3--mcA/edit?usp=sharing) | Chap 7 DayanAbbot |  |
+| 26. Decision making models | [slides](https://docs.google.com/presentation/d/14ALKQyPG3R06RTmdB_iKdyusjbk_tvRLksXhHu91hPQ/edit?usp=sharing) | Chap 16 Gerstner |  |
+| 27. Memory models | [slides](https://docs.google.com/presentation/d/1dwOgCq7UafJKLOay58YLWd_Nv5oPWOKPv8ReM5XZe40/edit?usp=sharing) | Chap 17 Gernster |  |
 | 29. Models in general | [slides]() | |  |
 | 30.  | | | |
 | 31.  | | | |
