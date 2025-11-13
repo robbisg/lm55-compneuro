@@ -28,4 +28,3 @@
 | 23. Networks models | [slides](https://docs.google.com/presentation/d/1TBPKwTxz321B_zknyZm1cOLUGfuRN8X1VyagO3--mcA/edit?usp=sharing) | Chap 7 DayanAbbot |  |
 | 24. Decision making models | [slides](https://docs.google.com/presentation/d/14ALKQyPG3R06RTmdB_iKdyusjbk_tvRLksXhHu91hPQ/edit?usp=sharing) | Chap 16 Gerstner |  |
 | 25. Memory models | [slides](https://docs.google.com/presentation/d/1dwOgCq7UafJKLOay58YLWd_Nv5oPWOKPv8ReM5XZe40/edit?usp=sharing) | Chap 17 Gernster |  |
-| 29. Models in general | [slides]() | | |
