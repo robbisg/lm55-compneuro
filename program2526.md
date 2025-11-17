@@ -14,7 +14,7 @@
 | 9. Neuronal models I pt. 3 | [slides](https://docs.google.com/presentation/d/1DRC8jskF6oI1k439YmqB8QLE7Y_wpomsbV6J56CmshI/edit?usp=sharing) | Chap 4,5 Izhikievich | 06.11.2025 |
 | 10. Bifurcation reprise pt. I | [slides](https://docs.google.com/presentation/d/1g_1ETJaAYASRFlC8A99okKTgNZx6JTtmv1MjizGqm2I/edit?usp=drive_link) | Chap 6 Izhikievich | 10.11.2025 |
 | 11. Bifurcation reprise pt. II | [slides](https://docs.google.com/presentation/d/1g_1ETJaAYASRFlC8A99okKTgNZx6JTtmv1MjizGqm2I/edit?usp=drive_link) | Chap 6 Izhikievich | 13.11.2025 |
-| 12. Class of excitability and spiking | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich |  |
+| 12. Class of excitability and spiking | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich | 17.11.2025 |
 | 13. Neuronal integrators and resonators | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich |  |
 | 14. Threshold and action potentials | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich |  |
 | 15. Inhibitory properties | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich |  |
