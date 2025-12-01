@@ -16,8 +16,8 @@
 | 11. Bifurcation reprise pt. II | [slides](https://docs.google.com/presentation/d/1g_1ETJaAYASRFlC8A99okKTgNZx6JTtmv1MjizGqm2I/edit?usp=drive_link) | Chap 6 Izhikievich | 13.11.2025 |
 | 12. Class of excitability and spiking | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich | 17.11.2025 |
 | 13. Neuronal integrators and resonators | [slides](https://docs.google.com/presentation/d/15kvgxL3rRBMeK5AiOB7z9BaGleRyhXd3oRfvHJgvnD0/edit?usp=sharing) | Chap 7 Izhikievich | 24.11.2025 |
-| 14. Neuronal Bursting pt. I | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap. 9 Izhikievich |  |
-| 15. Neuronal Bustring pt. II | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap. 9 Izhikievich |  |
+| 14. Neuronal Bursting pt. I | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap. 9 Izhikievich | 27.11.2025 |
+| 15. Neuronal Bustring pt. II | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap. 9 Izhikievich | 01.12.2025 |
 | 16. 💻 Models in practice | [notebook](https://colab.research.google.com/drive/1eU9CvNjnUDOzYpDkrmurvR2CHjjlh20d?usp=sharing) | Chap 3 Izhikievich |  | |
 | 17. Neural encoding pt I |[slides](https://docs.google.com/presentation/d/102ciKLSKFk0NT85m0MKFJ5zOZGE0HNzOTlegUYcEHrk/edit?usp=sharing) | Chap 1 DayanAbbot|  |
 | 18. Neural encoding pt II |[slides](https://docs.google.com/presentation/d/102ciKLSKFk0NT85m0MKFJ5zOZGE0HNzOTlegUYcEHrk/edit?usp=sharing) | Chap 1 DayanAbbot|  |
