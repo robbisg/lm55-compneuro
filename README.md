@@ -15,6 +15,8 @@ The slides of the course can be found at the following links:
 - [AA 2025-26](program2526.md)
 
 ## Material
+- [Neuromatch Academy](https://compneuro.neuromatch.io/tutorials/intro.html)
+
 
 ## Papers
 
