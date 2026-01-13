@@ -22,6 +22,6 @@
 | 17. Networks models | [slides](https://docs.google.com/presentation/d/1TBPKwTxz321B_zknyZm1cOLUGfuRN8X1VyagO3--mcA/edit?usp=sharing) | Chap 7 DayanAbbot | 11.12.2025|
 | 18. Decision making models | [slides](https://docs.google.com/presentation/d/14ALKQyPG3R06RTmdB_iKdyusjbk_tvRLksXhHu91hPQ/edit?usp=sharing) | Chap 16 Gerstner |  |
 | 19. Memory models | [slides](https://docs.google.com/presentation/d/1dwOgCq7UafJKLOay58YLWd_Nv5oPWOKPv8ReM5XZe40/edit?usp=sharing) | Chap 17 Gernster |  |
-| 20. 🖥️ Machine learning project | [notebook](https://colab.research.google.com/drive/1v6SiKiWzDOPQ-TUyUEoq6WHZpihaxAUw?usp=sharing) | Chap 3 Izhikievich |  | |
+| 20. 🖥️ Machine learning project | [notebook](https://colab.research.google.com/drive/1v6SiKiWzDOPQ-TUyUEoq6WHZpihaxAUw?usp=sharing) [data](https://drive.google.com/file/d/12t8F2Pn4opQuqeBNvN2z9_mBtI-16GZV/view?usp=sharing)| Chap 3 Izhikievich |  | |
 | 21. 💻 Models in practice | [notebook](https://colab.research.google.com/drive/1eU9CvNjnUDOzYpDkrmurvR2CHjjlh20d?usp=sharing) | Chap 3 Izhikievich |  |
 
