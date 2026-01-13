@@ -20,8 +20,8 @@
 | 15. Neuronal Bustring pt. II | [slides](https://docs.google.com/presentation/d/1F8fZ_wK4tHhbThVbBxSLsoe35GF45R-p2DrJdkmJXrU/edit?usp=sharing) | Chap. 9 Izhikievich | 01.12.2025 |
 | 16. Neural encoding |[slides](https://docs.google.com/presentation/d/102ciKLSKFk0NT85m0MKFJ5zOZGE0HNzOTlegUYcEHrk/edit?usp=sharing) | Chap 1 DayanAbbot | 04.12.2025 |
 | 17. Networks models | [slides](https://docs.google.com/presentation/d/1TBPKwTxz321B_zknyZm1cOLUGfuRN8X1VyagO3--mcA/edit?usp=sharing) | Chap 7 DayanAbbot | 11.12.2025|
-| 18. Decision making models | [slides](https://docs.google.com/presentation/d/14ALKQyPG3R06RTmdB_iKdyusjbk_tvRLksXhHu91hPQ/edit?usp=sharing) | Chap 16 Gerstner |  |
-| 19. Memory models | [slides](https://docs.google.com/presentation/d/1dwOgCq7UafJKLOay58YLWd_Nv5oPWOKPv8ReM5XZe40/edit?usp=sharing) | Chap 17 Gernster |  |
+| 18. Decision making models | [slides](https://docs.google.com/presentation/d/14ALKQyPG3R06RTmdB_iKdyusjbk_tvRLksXhHu91hPQ/edit?usp=sharing) | Chap 16 Gerstner | 14.12.2025 |
+| 19. Memory models | [slides](https://docs.google.com/presentation/d/1dwOgCq7UafJKLOay58YLWd_Nv5oPWOKPv8ReM5XZe40/edit?usp=sharing) | Chap 17 Gernster | 18.12.2025 |
 | 20. 💻 Models in practice | [notebook](https://colab.research.google.com/drive/1eU9CvNjnUDOzYpDkrmurvR2CHjjlh20d?usp=sharing) | Chap 3 Izhikievich | 13.01.2026 |
 | 21. 🖥️ Machine learning project | [notebook](https://colab.research.google.com/drive/1v6SiKiWzDOPQ-TUyUEoq6WHZpihaxAUw?usp=sharing) [data](https://drive.google.com/file/d/12t8F2Pn4opQuqeBNvN2z9_mBtI-16GZV/view?usp=sharing)| Chap 3 Izhikievich |  14.01.2026 |
 
