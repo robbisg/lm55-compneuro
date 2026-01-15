@@ -23,6 +23,6 @@
 | 18. Decision making models | [slides](https://docs.google.com/presentation/d/14ALKQyPG3R06RTmdB_iKdyusjbk_tvRLksXhHu91hPQ/edit?usp=sharing) | Chap 16 Gerstner | 14.12.2025 |
 | 19. Memory models | [slides](https://docs.google.com/presentation/d/1dwOgCq7UafJKLOay58YLWd_Nv5oPWOKPv8ReM5XZe40/edit?usp=sharing) | Chap 17 Gernster | 18.12.2025 |
 | 20. 💻 Models in practice | [notebook](https://colab.research.google.com/drive/1eU9CvNjnUDOzYpDkrmurvR2CHjjlh20d?usp=sharing) | Chap 3 Izhikievich | 13.01.2026 |
-| 21. 🖥️ Machine learning project | [notebook](https://colab.research.google.com/drive/1v6SiKiWzDOPQ-TUyUEoq6WHZpihaxAUw?usp=sharing) [data](https://drive.google.com/file/d/12t8F2Pn4opQuqeBNvN2z9_mBtI-16GZV/view?usp=sharing)| Chap 3 Izhikievich |  14.01.2026 |
+| 21. 🖥️ Machine learning project | [notebook](https://colab.research.google.com/drive/1v6SiKiWzDOPQ-TUyUEoq6WHZpihaxAUw?usp=sharing) [data](https://drive.google.com/file/d/12t8F2Pn4opQuqeBNvN2z9_mBtI-16GZV/view?usp=sharing) [solution](https://colab.research.google.com/drive/10AGsRNZ6xF2uoChMUHuk4BwHZVv7vRyT?usp=sharing)| Chap 3 Izhikievich |  14.01.2026 |
 
 
